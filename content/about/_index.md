@@ -1,0 +1,53 @@
++++
+title = "About Me"
+date = "2017-12-20"
++++
+
+![](https://image.ibb.co/j5Gk0R/38208251585_ff2aa6cdfe_o.jpg) 
+
+Halo, my name is Muhammad Zaky Zulfiqor.
+
+I just simple person who like code, security enthusiast, share knowledge, always learning new information about technology, cyber security, and penetration testing.
+
+I'd like to think myself as an J-Pop, J-Rock, Rock, Deathcore, Electronicore, Metalcore, and Metal fan and use my choice of music for positive self-regulatory purposes. In addition, I am also a fan of Anime, Manga, and Light Novel from Japan.
+
+## Work Experience
+
+* Chief Executive Officer (CEO) & Founder - {{< url-link "Error 404 Cyber News" "https://errorcybernews.com" "target">}} (2016 - Present)
+* IT Administrator - {{< url-link "Yo! Holiday Tours & Travel" "https://www.yoholiday.co.id" "target">}} (2016 - Present)
+
+# Skills
+
+* HTML & CSS
+* JavaScript
+* PHP
+* Python
+* Linux
+
+# Achievement
+
+<a href="#"><img src="https://d3g1cn7w902vur.cloudfront.net/2015/01/CHFI-badge.png"></a> 
+<a href="#"><img src="https://d3g1cn7w902vur.cloudfront.net/2014/12/ethical-hacker-badge.png"></a> 
+<a href="#"><img src="https://d3g1cn7w902vur.cloudfront.net/2015/03/CISA-badge.png"></a> 
+<a href="#"><img src="https://d3g1cn7w902vur.cloudfront.net/2016/05/CCSP-badge.png"></a> 
+<a href="#"><img src="https://d3g1cn7w902vur.cloudfront.net/2016/06/web_app_course-badge.png"></a> 
+<a href="#"><img src="https://d3g1cn7w902vur.cloudfront.net/2016/02/secure-coding-badge.png"></a> 
+<a href="#"><img src="https://d3g1cn7w902vur.cloudfront.net/2015/04/python.png"></a>
+
+* {{< url-link "Microsoft Digital Literacy" "https://www.microsoft.com/about/corporatecitizenship/citizenship/giving/programs/up/digitalliteracy/asmt/certificate.aspx?name1=Muhammad%20Zaky&name2=Zulfiqor&lang=eng&aid=as26b" "target">}}
+* {{< url-link "Digital Civility: Making the Internet Safer" "https://beeimg.com/images/q51599218531.jpg" "target">}} from Microsoft Virtual Academy
+* {{< url-link "Security Fundamentals" "https://beeimg.com/images/j44095870732.jpg" "target">}} from Microsoft Virtual Academy
+* {{< url-link "Security in the Enterprise" "https://beeimg.com/images/j61993334942.jpg" "target">}} from Microsoft Virtual Academy
+* Speaker at {{< url-link "Seminar Security in a Serious Way" "https://seminar.errorcybernews.com" "target">}} 2017
+
+# Favorite Music
+
+<iframe src="https://open.spotify.com/embed?uri=spotify:track:2BY5fNHmpjV797ByjLX4I7" width="250" height="80" frameborder="0" allowtransparency="true"></iframe>
+<iframe src="https://open.spotify.com/embed?uri=spotify:track:1oy5ijzOe5kuX5QOLa6Uqt" width="250" height="80" frameborder="0" allowtransparency="true"></iframe>
+<iframe src="https://open.spotify.com/embed?uri=spotify:track:5riHeAecRL5FBpIWB5XW2f" width="250" height="80" frameborder="0" allowtransparency="true"></iframe>
+<iframe src="https://open.spotify.com/embed?uri=spotify:track:1p6xmiuInlo3zPzgHnPz5h" width="250" height="80" frameborder="0" allowtransparency="true"></iframe>
+<iframe src="https://open.spotify.com/embed?uri=spotify:track:0uBbuZ5LnfaPLszfxP8CXz" width="250" height="80" frameborder="0" allowtransparency="true"></iframe>
+<iframe src="https://open.spotify.com/embed?uri=spotify:track:0tBwpD5CiHQAp5hupU2tVC" width="250" height="80" frameborder="0" allowtransparency="true"></iframe>
+<iframe src="https://open.spotify.com/embed?uri=spotify:track:2KfC6tJ8uVW1iY0wIHJttE" width="250" height="80" frameborder="0" allowtransparency="true"></iframe>
+<iframe src="https://open.spotify.com/embed?uri=spotify:track:4I71z7CBzGLQD5B7u1ochV" width="250" height="80" frameborder="0" allowtransparency="true"></iframe>
+<iframe src="https://open.spotify.com/embed?uri=spotify:track:38kcwx5znepLWCIBID0Bwm" width="250" height="80" frameborder="0" allowtransparency="true"></iframe>

@@ -1,0 +1,8 @@
+[submodule "zakybstrd21215.github.io"]
+	path = zakybstrd21215.github.io
+	url = https://github.com/zakybstrd21215/zakybstrd21215.github.io.git
+	branch = master
+[submodule "public"]
+	path = public
+	url = git@github.com:zakybstrd21215/zakybstrd21215.github.io.git
+	branch = master

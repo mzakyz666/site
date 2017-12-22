@@ -1,0 +1,81 @@
+==================================================================
+https://keybase.io/mzakyz
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://muhammadzakyzulfiqor.xyz
+  * I am mzakyz (https://keybase.io/mzakyz) on keybase.
+  * I have a public key with fingerprint AC13 34CF 4CCF 529F 28B6  5018 2BCA 077A E5EE 4759
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01013c7c4423635ca8db604e4e695e1e0abaed23800f4efbb804c2d637c91948a7da0a",
+      "fingerprint": "ac1334cf4ccf529f28b650182bca077ae5ee4759",
+      "host": "keybase.io",
+      "key_id": "2bca077ae5ee4759",
+      "kid": "01013c7c4423635ca8db604e4e695e1e0abaed23800f4efbb804c2d637c91948a7da0a",
+      "uid": "738baafe50e95737252a8ebe2358d219",
+      "username": "mzakyz"
+    },
+    "merkle_root": {
+      "ctime": 1506942754,
+      "hash_meta": "62e33d4403aadba2f7460a7f5918820a157e6b33aa84ff8d0a6258d05a43c35f",
+      "seqno": 1483854
+    },
+    "revoke": {
+      "sig_ids": [
+        "54358b9a862faae8887772d962acf17f00537ff616e8873672648beab0e21cbb0f"
+      ]
+    },
+    "service": {
+      "hostname": "muhammadzakyzulfiqor.xyz",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1506942763,
+  "expire_in": 157680000,
+  "prev": "f0c7c2cad2221a69bde4715a6498e5782eed46ff0563c0d4f26753d7266cca0b",
+  "seqno": 7,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.74
+Comment: https://keybase.io/crypto
+
+yMLGAnicrVNvaFZVHH7fZksHWVoja8rqgijrxc49/++b9kWUHP0xSqSWvZxz7+9s
+t+1973bvfd8519AViMgYIwgKJM0ZWsIo1KjQFqK51IJJEAYFtTcmuT7YxxnVuSMJ
+oo99Opxznt/zPL/n/M65OxtyTXl6MT/eWP/1vfyls7urueevtD486OgoGHCKg043
+LCzQE0CSlrrDwCk6yEUu8YVPKSacMF/JQHNEgQL3GLiAlFYQYCIRMhSM1hJRHwec
+CN9zPSqVCBRSTsExYaUT4t44rKSWVvkuIdQ31PcNw57BUnOGXIm1r5AQChgAFcyz
+hV1RklVYc1olsC6M7JndlBbs/Qf+f/ZdXaATRGqlDDAEHhNEYIaVBA2YMBlgN9Ot
+JhBXVBksurxLdQ/scoYKThni7h4oxVGUZtH6aZgBXIa4R7Fg1Lankq5SGVJl6zgG
+QgJKEVEq0AobQTlSwjDPlRIj5TIBXBN7K6kxMkCKY6uPmKLEJ8xYFwn0VSKrQCWR
+jFoHMdSibsjEk7DThpY4xQ6HUetbe0pybJQCKaUQAgcex8o3rjAIMSKM4S63d4Jw
+gTmVGpRGgF1fa2ScHUOZWFwL/QXy7JVudV/tUuWyChZCqPaYsC+K1+20eRSc3jhK
+Iz/qsaiuNO1NillG6UBvVtYPuvQ3YUmHlcDOi62oQZyEUcV2ZJH/io+TggM7e8MY
+SmGGYILb50Qo04GapTTITgD2VYAxdhX3dGCHxGWKU08CExIDBJQbgxgnPgqowVww
+EthuuW/nSv+Tp7A2VaeltCFWVFqNwRk6+/mLi3L5plzj7bdl/yjXtOTuW79r/sHF
+ue/fuTb345qR6RWzT9wMoeHCvsdePjzz0KaWy99t7798x55f9jd+Mtz3zFfjozP9
+za/Op0f2LH9/7sTvyenm0U/3bx7+Y7B9ycoD12ob9hZWt7l99an1yamxUzfeHN1x
+MP/A6XpO84nr62eeXXbmnolDR3/a2r+v/cLmLfz6G0MrLk5tfHvDC0dbv2ydbfj6
+UDQ7uqatfOXblsGO6VcmWxav/PD8u8fvW1voqL++7cyBuW3tY+eeO19nG+8/cfzx
+j+cP/rbs0msfPbmpNsdGPmu70bH05FVRXWqWT4yNPfLo0/LYFDm5e/KtH25O7/2G
+PbV9613HVv/ZsOXnVSOHPxgfbs4duXd4jq9d9NIXxZmrk6v+Ain7hkE=
+=E5SF
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/mzakyz
+
+==================================================================
