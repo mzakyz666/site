@@ -11,6 +11,13 @@ I just simple person who like code, security enthusiast, share knowledge, always
 
 I'd like to think myself as an J-Pop, J-Rock, Rock, Deathcore, Electronicore, Metalcore, and Metal fan and use my choice of music for positive self-regulatory purposes. In addition, I am also a fan of Anime, Manga, and Light Novel from Japan.
 
+## Education Formal
+
+* SDN Picungremuk 1 Tasikmalaya (2003-2009)
+* SMP Pst. Cintawana Singaparna (2009-2011)
+* MTs Manarul Huda Tasikmalaya (2011-2012)
+* SMK Nahdlatul Ulama Tasikmalaya (2012-2015)
+
 ## Work Experience
 
 * Chief Executive Officer (CEO) & Founder - {{< url-link "Error 404 Cyber News" "https://errorcybernews.com" "target">}} (2016 - Present)
