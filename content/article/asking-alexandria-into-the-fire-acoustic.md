@@ -34,18 +34,33 @@ Kamu bisa mendownload lagu tersebut di: {{< url-link "http://smarturl.it/IntoThe
 ## INTO THE FIRE // LYRICS:
 
 I'm not too sure what I'm supposed to do with this
+
 These hands, this mind, this instability
+
 From a cage I created, to a hell that heaven made
+
 Can't let go of the hatred, cause I love the way it tastes
+
 I wouldn't take back a moment, not one miserable moment
+
 I'll give it all, 'til there's nothing
+
 I'd walk into the fire
+
 I've come to terms with the fact I'll never change
+
 And that's just fine, I find solace in the pain
+
 I don't mind the darkness, it's easy on the eyes
+
 I'm praying for something to make me feel alive
+
 I wouldn't take back a moment, not one miserable moment
+
 I'll give it all, 'til there nothing
+
 I'd walk into the fire
+
 I'm a paranoid, sycophant, masochistic dilettante... Narcissistic elephant in the room
+
 I'm the end of the world, thinning the herd, the all around outta my my mind, fucking absurd I am gone, I am gone
