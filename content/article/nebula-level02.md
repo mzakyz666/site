@@ -42,7 +42,7 @@ Source code untuk referensinya disertakan di bawah ini:
     system(buffer);
     }
 
-Seperti yang Anda lihat, "echo" dipanggil oleh path absolutnya tetapi getenv("USER")) memanggil variabel lingkungan $USER. Seperti masalah di level01, variabel ini diatur dalam shell saat ini yang dapat dimanipulasi.
+Seperti yang bisa kamu lihat, "echo" dipanggil oleh path absolutnya tetapi getenv("USER")) memanggil variabel lingkungan $USER. Seperti masalah di level01, variabel ini diatur dalam shell saat ini yang dapat dimanipulasi.
 
 Mari kita modifikasi variabel $USER untuk memasukkan input yang berbeda.
 
