@@ -1,4 +1,6 @@
 ---
+pages:
+- article/nebula-level01.md
 hide_body: false
 fields:
 - name: author
