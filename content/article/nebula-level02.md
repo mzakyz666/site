@@ -1,7 +1,7 @@
 +++
 author = "kernel-panic"
 categories = ["Security", "Nebula"]
-date = "2018-01-10T00:43:39+00:00"
+date = "2018-01-10T05:43:39+00:00"
 description = "Security Wargames"
 featured = "x44905647871.jpg"
 featuredalt = "Nebula Level02"
