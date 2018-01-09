@@ -45,7 +45,7 @@ Mari kita modifikasi path untuk memasukkan /tmp/:
     level01@nebula:/home/flag01$ echo $PATH
     /tmp:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games
 
-Sekarang /tmp ada di path saat ini, kita bisa membuat "echo" perintah kita sendiri. Saya telah memasukkan kode C di bawah ini untuk (dalam bahasa kerennya) _spawn a shell_.
+Sekarang /tmp ada di path saat ini, kita bisa membuat "echo" perintah kita sendiri. Saya telah memasukkan kode C di bawah ini untuk (dalam istilah kerennya) _spawn a shell_.
 
     #include <unistd.h>
     
