@@ -11,7 +11,7 @@ title = "Exploit Exercises - Nebula Level04"
 type = "post"
 
 +++
-{{< url-link "Level04" "https://exploit-exercises.com/nebula/level03/" "target">}} adalah salah satu tantangan favorit bagi saya dari keseluruhan seri yang ada.
+{{< url-link "Level04" "https://exploit-exercises.com/nebula/level04/" "target">}} adalah salah satu tantangan favorit bagi saya dari keseluruhan seri yang ada.
 
 Kita disajikan _source code_ untuk level4.c. Saya menyertakan kodenya di bawah ini untuk referensi lebih cepat:
 
