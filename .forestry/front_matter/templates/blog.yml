@@ -1,5 +1,6 @@
 ---
 pages:
+- article/website-security.md
 - article/nebula-level01.md
 - article/nebula-level06.md
 - article/nebula-level05.md
@@ -7,6 +8,7 @@ pages:
 - article/nebula-level04.md
 - article/nebula-level02.md
 hide_body: false
+is_partial: false
 fields:
 - name: author
   label: Author
