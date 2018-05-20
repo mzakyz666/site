@@ -25,11 +25,11 @@ Tetapi sebagian besar serangan terjadi karena kerentanan hadir dalam aplikasi it
 
 Dalam skenario ini peran profesional keamanan sangat dibutuhkan untuk membuat analisis dan tes keamanan bersama dengan tim pengembangan sistem dan _sysadmin_. Oleh karena itu, sangat penting bahwa perusahaan cukup berinvestasi dalam keamanan informasi, agar tidak kehilangan kepercayaan klien mereka dan menghindari kemungkinan kerugian.
 
-#### Mari bahas beberapa kerentanan yang umumnya ditemukan di aplikasi Web
+### Mari bahas beberapa kerentanan yang umumnya ditemukan di aplikasi Web
 
 * **SQL Injection**
 
-Hal yang unik dari serangan ini adalah perintahnya yang sederhana, tetapi serangan ini dapat menyebabkan kerusakan besar. Contoh ilustratif dari serangan ini yaitu mencoba memasukkan pernyataan SQL yang berfungsi untuk menghapus semua rekaman dari tabel aplikasi pengguna. 
+Hal yang unik dari serangan ini adalah perintahnya yang sederhana, tetapi serangan ini dapat menyebabkan kerusakan besar. Contoh ilustratif dari serangan ini yaitu mencoba memasukkan pernyataan SQL yang berfungsi untuk menghapus semua rekaman dari tabel aplikasi pengguna.
 
 Selain memasukkan perintah SQL untuk menghapus informasi aplikasi, dapat juga memasukkan perintah untuk mendapatkan informasi pengguna yang sensitif. Seperti halnya kejadian yang menimpa perusahaan besar seperti Yahoo, eBay di masa lalu.
 
