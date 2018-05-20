@@ -10,7 +10,7 @@ pluralizeListTitles = false
 
 [params]
   # Sets the meta tag description
-  description          = "All about me. - Muhammad Zaky Zulfiqor (kernel-panic)"
+  description          = "All about me. - Muhammad Zaky Zulfiqor"
   # Sets the navbarTitle that appears in the top left of the navigation bar
   navbarTitle          = "Muhammad Zaky Zulfiqor"
   # Sets where "View More Posts" links
@@ -67,7 +67,7 @@ pluralizeListTitles = false
 
   paragraph = "Hello World!"
 
-  about     = "I just a simple person who like code, security enthusiast, share knowledge, always learning new information about technology, cyber security, and penetration testing."
+  about     = "I just a simple person who like code, security enthusiast, share knowledge, always learning new information about technology and cyber security."
 
   # This appears at the top of the sidebar above params.intro.header.
   # A width of less than 100px is recommended from a design perspective.
