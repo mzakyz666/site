@@ -3,11 +3,11 @@ date = "2017-12-20T00:00:00Z"
 title = "Who Am I"
 
 +++
-![](https://image.ibb.co/j5Gk0R/38208251585_ff2aa6cdfe_o.jpg) 
+![](https://farm1.staticflickr.com/799/39238550660_fba521f6f7_k_d.jpg)
 
 Halo, my name is Muhammad Zaky Zulfiqor.
 
-I just simple person who like code, security enthusiast, share knowledge, always learning new information about technology, cyber security, and penetration testing.
+I just simple person who like code, security enthusiast, share knowledge, always learning new information about technology and cyber security.
 
 I'd like to think myself as an J-Pop, J-Rock, Rock, Deathcore, Electronicore, Metalcore, and Metal fan and use my choice of music for positive self-regulatory purposes. In addition, I am also a fan of Anime, Manga, and Light Novel from Japan.
 
@@ -33,19 +33,14 @@ I'd like to think myself as an J-Pop, J-Rock, Rock, Deathcore, Electronicore, Me
 
 # Achievement
 
-<a href="#"><img src="https://d3g1cn7w902vur.cloudfront.net/2015/01/CHFI-badge.png"></a> 
-<a href="#"><img src="https://d3g1cn7w902vur.cloudfront.net/2014/12/ethical-hacker-badge.png"></a> 
-<a href="#"><img src="https://d3g1cn7w902vur.cloudfront.net/2015/03/CISA-badge.png"></a> 
-<a href="#"><img src="https://d3g1cn7w902vur.cloudfront.net/2016/05/CCSP-badge.png"></a> 
-<a href="#"><img src="https://d3g1cn7w902vur.cloudfront.net/2016/06/web_app_course-badge.png"></a> 
-<a href="#"><img src="https://d3g1cn7w902vur.cloudfront.net/2016/02/secure-coding-badge.png"></a> 
-<a href="#"><img src="https://d3g1cn7w902vur.cloudfront.net/2015/04/python.png"></a>
-
-* {{< url-link "Microsoft Digital Literacy" "https://www.microsoft.com/about/corporatecitizenship/citizenship/giving/programs/up/digitalliteracy/asmt/certificate.aspx?name1=Muhammad%20Zaky&name2=Zulfiqor&lang=eng&aid=as26b" "target">}}
-* {{< url-link "Digital Civility: Making the Internet Safer" "https://beeimg.com/images/q51599218531.jpg" "target">}} from Microsoft Virtual Academy
-* {{< url-link "Security Fundamentals" "https://beeimg.com/images/j44095870732.jpg" "target">}} from Microsoft Virtual Academy
-* {{< url-link "Security in the Enterprise" "https://beeimg.com/images/j61993334942.jpg" "target">}} from Microsoft Virtual Academy
-* Speaker at {{< url-link "Seminar Security in a Serious Way" "https://seminar.errorcybernews.com" "target">}} 2017
+* CHFI
+* CISA
+* CCSP
+* Microsoft Digital Literacy
+* Digital Civility: Making the Internet Safer from MVA
+* Security Fundamentals from MVA
+* Security in the Enterprise from MVA
+* Speaker Cyber Security Seminar "Security in a Serious Way" 2017
 
 # Favorite Music
 
