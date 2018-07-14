@@ -41,6 +41,7 @@ I'd like to think myself as an J-Pop, J-Rock, Rock, Deathcore, Electronicore, Me
 * Security Fundamentals from MVA
 * Security in the Enterprise from MVA
 * Speaker Cyber Security Seminar "Security in a Serious Way" 2017
+* Speaker "NGABUBUR-IT: Sharing Session About IT & Cyber Security" at SMK NU Tasikmalaya
 
 # Favorite Music
 
