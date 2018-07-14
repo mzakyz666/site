@@ -33,9 +33,8 @@ Nah, ini beberapa contoh permasalahan terkait IoT yang terekam jejaknya:
 
 #### Mirai Botnet
 
-Tentang mirai bisa baca-baca di: [https://errorcybernews.com/2016/12/23/mirai-iot-botnet-dan-mitigasi-ddos-attack/](https://errorcybernews.com/2016/12/23/mirai-iot-botnet-dan-mitigasi-ddos-attack/ "https://errorcybernews.com/2016/12/23/mirai-iot-botnet-dan-mitigasi-ddos-attack/")
-
-Source code Mirai: [https://github.com/zakybstrd21215/Mirai-Source-Code](https://github.com/zakybstrd21215/Mirai-Source-Code "https://github.com/zakybstrd21215/Mirai-Source-Code")
+* Tentang mirai bisa baca-baca di: [https://errorcybernews.com/2016/12/23/mirai-iot-botnet-dan-mitigasi-ddos-attack/](https://errorcybernews.com/2016/12/23/mirai-iot-botnet-dan-mitigasi-ddos-attack/ "https://errorcybernews.com/2016/12/23/mirai-iot-botnet-dan-mitigasi-ddos-attack/")
+* Source code Mirai: [https://github.com/zakybstrd21215/Mirai-Source-Code](https://github.com/zakybstrd21215/Mirai-Source-Code "https://github.com/zakybstrd21215/Mirai-Source-Code")
 
 #### Perangkat Medis
 
