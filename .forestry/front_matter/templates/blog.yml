@@ -55,9 +55,9 @@ fields:
   hidden: false
   default: post
 pages:
-- content/article/nebula-level01.md
 - content/article/the-internet-of-hackable-things.md
 - content/article/nebula-level03.md
+- content/article/nebula-level01.md
 - content/article/nebula-level04.md
 - content/article/nebula-level02.md
 - content/article/nebula-level06.md
