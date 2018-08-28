@@ -63,4 +63,8 @@ Setelah itu, saya pun melewati hari dag-dig-dug nungguin hasilnya.
 
 ## Hari Kedatangan Passport
 
-Setelah hari-hari berlalu, pada hari Rabu (29 Agustus 2018) saya menerima paket berisi Passport saya. Disertai rasa penasaran, deg-degan, dan perasaan campur aduk lainnya, saya pun membuka paket tersebut lalu mengecek isi Passport. Syukur Alhamdulillah, Visa Jepang sudah menempel cantik di Passport saya. Visa yang saya punya ini berlaku untuk satu kali kunjungan, paling lama 15 hari dan hanya dapat digunakan hingga 3 bulan ke depan.
+Setelah hari-hari berlalu, pada hari Rabu (29 Agustus 2018) saya menerima paket berisi Passport saya.
+
+Disertai rasa penasaran, deg-degan, dan perasaan campur aduk lainnya, saya pun membuka paket tersebut lalu mengecek isi Passport. Syukur Alhamdulillah, Visa Jepang sudah menempel cantik di Passport saya.
+
+Visa Jepang yang saya punya ini berlaku untuk satu kali kunjungan, paling lama 15 hari dan hanya dapat digunakan hingga 3 bulan ke depan.
