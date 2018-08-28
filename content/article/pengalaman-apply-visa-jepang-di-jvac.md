@@ -45,7 +45,7 @@ Setelah sampai, saya pun melewati _security check_ dan meminta nomor antrean den
 
 ![Nomor Antrian](/uploads/2018/08/24/photo_2018-08-24_14-04-13.jpg "Nomor Antrian")
 
-Pas masuk ke dalam, lumayan sepi. Di sana ada meja-meja pelayanan dan kursi untuk menunggu, dan konternya juga terpisah antara pengajuan perorangan dan agen. Baru duduk sebentar, nomor antrean saya dipanggil, langsung menuju _counter_ yang dimaksud dan menyerahkan dokumen yang sudah saya siapkan. Oh iya, panggilan nomor antreannya dalam Bahasa Inggris.
+Pas masuk ke dalam, lumayan sepi. Di sana ada meja-meja pelayanan dan kursi untuk menunggu, dan konternya juga terpisah antara pengajuan perorangan dan agen. Baru duduk sebentar, nomor antrean saya dipanggil, langsung menuju _counter_ yang dimaksud. Oh iya, panggilan nomor antreannya dalam Bahasa Inggris.
 
 ![](/uploads/2018/08/24/photo_2018-08-24_14-04-10.jpg)
 
