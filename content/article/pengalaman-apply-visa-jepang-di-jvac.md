@@ -49,7 +49,7 @@ Pas masuk ke dalam, lumayan sepi. Di sana ada meja-meja pelayanan dan kursi untu
 
 ![](/uploads/2018/08/24/photo_2018-08-24_14-04-10.jpg)
 
-Ketika di meja pelayanan, mbaknya langsung menyapa "Selamat Pagi" dan meminta dokumen saya. Setelah itu, mbaknya memeriksa kelengkapan data dan dokumen serta menanyakan beberapa hal, seperti _‘Perginya sendirian aja, mas?’_ dan pertanyaan standar lainnya. Lalu, mbaknya menginformasikan bahwa persetujuan visa sepenuhnya tergantung pada keputusan pihak kedutaan dan biasanya perlu waktu 4 hari kerja.
+Ketika di meja pelayanan, mbaknya langsung menyapa '_Selamat Pagi_' dan meminta dokumen saya. Setelah itu, mbaknya memeriksa kelengkapan data dan dokumen serta menanyakan beberapa hal, seperti _‘Perginya sendirian aja, mas?’_ dan pertanyaan standar lainnya. Lalu, mbaknya menginformasikan bahwa persetujuan visa sepenuhnya tergantung pada keputusan pihak kedutaan dan biasanya perlu waktu 4 hari kerja.
 
 Waktu itu saya apply pada hari Kamis (23 Agustus 2018), mbaknya bilang hari Selasa depan (28 Agustus 2018) Passport saya sudah bisa diambil. Setelah itu saya menanyakan untuk ke Tasikmalaya apakah bisa menggunakan kurir, dan mbaknya cek dulu. Setelah di cek, untuk Tasikmalaya bisa menggunakan kurir, dan saya pun meminta nanti Passportnya dikirim menggunakan kurir saja karena jarak Tasikmalaya-Jakarta itu jauuuuh kalo saya harus bulak-balik Tasikmalaya-Jakarta lagi buat ngambil Passport doang.
 
