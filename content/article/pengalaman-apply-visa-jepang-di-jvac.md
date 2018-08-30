@@ -63,8 +63,12 @@ Setelah itu, saya pun melewati hari dag-dig-dug nungguin hasilnya.
 
 ## Hari Kedatangan Passport
 
-Setelah hari-hari berlalu, pada hari Rabu (29 Agustus 2018) saya menerima paket berisi Passport saya.
+Setelah hari-hari berlalu, pada hari Kamis (30 Agustus 2018) saya menerima paket berisi Passport saya.
+
+![](/uploads/2018/08/30/photo_2018-08-30_13-43-13.jpg)
 
 Disertai rasa penasaran, deg-degan, dan perasaan campur aduk lainnya, saya pun membuka paket tersebut lalu mengecek isi Passport. Syukur Alhamdulillah, Visa Jepang sudah menempel cantik di Passport saya.
+
+![Visa Jepang](/uploads/2018/08/30/photo_2018-08-30_13-43-17.jpg "Visa Jepang")
 
 Visa Jepang yang saya punya ini berlaku untuk satu kali kunjungan, paling lama 15 hari dan hanya dapat digunakan hingga 3 bulan ke depan.
