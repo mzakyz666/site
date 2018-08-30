@@ -1,7 +1,7 @@
 +++
 author = "kernel-panic"
 categories = ["Wakarimasen"]
-date = "2018-08-28T14:18:38+07:00"
+date = "2018-08-30T10:18:38+07:00"
 description = "Dokumen perjalanan yang satu ini memang kadang bikin kita nervous duluan!"
 draft = true
 featured = "Japan%20Visa%20Application%20Center.jpg"
