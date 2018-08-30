@@ -34,7 +34,7 @@ Waktu saya apply itu saya merujuk pada persyaratan yang "Kunjungan Wisata dengan
 3. Foto kopi KTP dalam kertas A4, bukan seukuran KTP.
 4. Bukti pemesanan tiket penerbangan pergi dan pulang.
 5. Itinerary dengan tabel yang juga di download dari situs kedutaan, yang juga sudah diisi.
-6. Rekening koran atau salinan buku tabungan 3 bulan terakhir yang saya print sendiri dari menu e-Statement Internet Banking BCA.
+6. Rekening koran 3 bulan terakhir yang saya print sendiri dari menu e-Statement Internet Banking BCA.
 7. Surat dari kantor tempat saya bekerja dalam Bahasa Inggris. Ini untuk menerangkan bahwa yang bersangkutan bekerja di kantor tersebut dan akan kembali ke Indonesia seusai liburan.
 8. Print out bukti pemesanan hotel.
 
