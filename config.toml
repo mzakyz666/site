@@ -52,7 +52,7 @@ alt = "Muhammad Zaky Zulfiqor"
 circle = true
 imperfect = true
 src = "https://raw.githubusercontent.com/zakybstrd21215/site/master/static/uploads/2018/08/30/photo_2018-07-30_01-03-32.jpg"
-width = "100"
+width = "150"
 [params.postAmount]
 sidebar = 5
 [params.staticman]
