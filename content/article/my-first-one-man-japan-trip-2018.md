@@ -77,7 +77,7 @@ Ketiga, pintar-pintar lah menghitung budget untuk transportasi selama di Jepang.
 
 Keempat, pintar-pintar lah menghitung budget untuk makan. Dalam versi saya, ritme makan nya begini: saya orangnya jarang sarapan jadi gak perlu makan pagi, makan siang/sore okelah kalo pengen nyicip masakan yang dimasak orang Jepang, makan malam saya dengan mie instant yang saya bawa dari Indonesia. Karena saya menginap di hostel yang menyediakan dapur bersama, jadi bisa masak.
 
-Kelima, sebelum traveling ke Jepang apalagi sendirian, pelajarilah sedikit berbicara menggunakan Bahasa Jepang, karena itu akan memudahkan perjalanan kalian selama di Jepang.
+Kelima, sebelum traveling ke Jepang apalagi sendirian, pelajarilah sedikit berbicara menggunakan Bahasa Jepang, karena itu akan sedikit memudahkan perjalanan kalian selama di Jepang, syukur-syukur kalo udah fasih Bahasa Jepang.
 
 Jika ada informasi tambahan dari kalian, mungkin bisa dibagikan di kolom komentar ya!
 
