@@ -3,7 +3,6 @@ author = "kernel-panic"
 categories = ["Wakarimasen"]
 date = "2018-10-31T00:00:00+07:00"
 description = "Jalan-jalan sendirian ke Jepang? Kenapa enggak!"
-draft = true
 featured = "ONE-MAN%20JAPAN%20TRIP%202018.jpg"
 featuredalt = "ONE-MAN JAPAN TRIP 2018"
 featuredpath = "https://raw.githubusercontent.com/zakybstrd21215/site/master/static/uploads/2018/10/31"
