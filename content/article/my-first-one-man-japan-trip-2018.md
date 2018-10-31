@@ -105,6 +105,8 @@ Sebelum ditutup, karena banyak teman-teman di sosmed yang menanyakan berapa uang
 
 Note: Untuk pengeluaran lainnya itu akan berbeda setiap orang. Karena dalam pengeluaran lainnya versi saya yaitu seperti oleh-oleh, CD album kelima + DVD Live MY FRIST STORY, merchandise band, dll. Jadi tiap orang pasti berbeda-beda.
 
+Untuk totalnya, silahkan jumlahkan saja sendiri ya.
+
 Jangan lupa juga ditonton ya video cuplikan perjalanan saya selama di Tokyo yang ada dibawah ini:
 
 <div class="videoyoutube"><div class="video-responsive"> <iframe allowfullscreen="1" class="embedded-video-large" src="https://www.dailymotion.com/embed/video/x6wg3u5"></iframe></div></div>
