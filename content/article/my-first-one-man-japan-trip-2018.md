@@ -67,7 +67,7 @@ Yups, hari keempat ini merupakan hari berakhirnya perjalanan saya di Jepang. Di 
 
 ## Tips?
 
-Ok, di segmen akhir dari artikel ini saya akan membagikan beberapa informasi buat kalian yang ingin ke Jepang tapi hanya punya budget pas-pasan seperti saya.
+Ok, di segmen akhir dari artikel ini saya akan membagikan beberapa informasi buat kalian yang ingin ke Jepang dan ingin hemat seperti saya.
 
 Yang pertama pastinya pintar-pintar lah mencari tiket pesawat promo. Di perjalanan ini saya menggunakan maskapai AirAsia yang memang sudah menjadi informasi umum, si AirAsia ini sering banget ada promo-promo penerbangan murah.
 
