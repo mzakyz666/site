@@ -25,7 +25,7 @@ Di konter imigrasi lancar-lancar saja, hanya ditanyai beberapa pertanyaan umum s
 
 Tempat pertama yang saya kunjungi di Tokyo yaitu Ueno. Saya hanya sempat keliling di Ueno Park yang jaraknya tidak jauh dari Stasiun Keisei-Ueno karena malah turun hujan.
 
-Setelah dari Ueno, saya pun bergegas untuk melanjutkan perjalanan ke Shibamata. Jadi, Shibamata ini adalah kawasan kota lama yang menyisakan pemandangan bernuansa jadul atau tradisional ala Jepang gitu. Shibamata ini terletak di ujung timur prefektur Tokyo. Daerah ini berbatasan dengan sungai yang memisahkan Tokyo dengan prefektur Chiba. Dan ya, ketika saya di Shibamata tidak ada turis mancanegara sama sekali dan suasananya cukup sepi, padahal tempat ini menarik untuk dikunjungi.
+Setelah dari Ueno, saya pun bergegas untuk melanjutkan perjalanan ke Shibamata. Jadi, Shibamata ini adalah kawasan kota lama yang menyisakan pemandangan bernuansa jadul atau tradisional ala Jepang gitu. Shibamata ini terletak di ujung timur Tokyo. Daerah ini berbatasan dengan sungai yang memisahkan Tokyo dengan prefektur Chiba. Dan ya, ketika saya di Shibamata tidak ada turis mancanegara sama sekali dan suasananya cukup sepi, padahal tempat ini menarik untuk dikunjungi.
 
 Selesai dari Shibamata, saya langsung meluncur ke hostel tempat saya menginap untuk check-in. Setelah itu, saya lanjut lagi ke Asakusa. Di Asakusa ini tujuan saya yang sebenarnya yaitu ke Senso-ji Temple, tapi sebelum kesana saya sempatkan dulu untuk ke Sumida, karena pada waktu itu saya ingin mengambil footage video dan foto Tokyo Skytree dari jarak yang gak terlalu jauh.
 
