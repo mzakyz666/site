@@ -15,4 +15,4 @@ type = "post"
 
 <div class="videoyoutube"><div class="video-responsive"> <iframe allowfullscreen="1" class="embedded-video-large" src="https://www.dailymotion.com/embed/video/x6wg3u5"></iframe></div></div>
 
-Kamu bisa baca artikelnya {{< url-link "https://muhammadzakyzulfiqor.xyz/article/pengalaman-apply-visa-jepang-di-jvac/" "disini" "target">}}.
+Kamu bisa baca artikelnya {{< url-link "disini" "https://muhammadzakyzulfiqor.xyz/article/pengalaman-apply-visa-jepang-di-jvac/" "target">}}.
