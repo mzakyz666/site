@@ -75,7 +75,9 @@ Kedua, pintar-pintar lah menyusun jadwal perjalanan dan tempat yang akan dikunju
 
 Ketiga, pintar-pintar lah menghitung budget untuk transportasi selama di Jepang. Untungnya Jepang di setiap daerahnya memiliki tiket Day-Pass. Nah, jadi sebelum kesana, hitung dan bandingkan terlebih dahulu akan lebih hemat mana antara menggunakan tiket reguler/menggunakan IC Card dengan menggunakan tiket Day-Pass.
 
-Keempat, sebelum traveling ke Jepang apalagi sendirian, pelajarilah sedikit berbicara menggunakan Bahasa Jepang, karena itu akan memudahkan perjalanan kalian selama di Jepang.
+Keempat, pintar-pintar lah menghitung budget untuk makan. Dalam versi saya, ritme makan nya begini: saya orangnya jarang sarapan jadi gak perlu makan pagi, makan siang/sore okelah kalo pengen nyicip masakan yang dimasak orang Jepang, makan malam saya dengan mie instant yang saya bawa dari Indonesia. Karena saya menginap di hostel yang menyediakan dapur bersama, jadi bisa masak.
+
+Kelima, sebelum traveling ke Jepang apalagi sendirian, pelajarilah sedikit berbicara menggunakan Bahasa Jepang, karena itu akan memudahkan perjalanan kalian selama di Jepang.
 
 Jika ada informasi tambahan dari kalian, mungkin bisa dibagikan di kolom komentar ya!
 
