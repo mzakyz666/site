@@ -35,7 +35,7 @@ Setelah puas mengambil footage video serta foto, barulah saya mengunjungi Senso-
 
 ## Hari 2: Shinjuku, Akasaka, Harajuku, Shibuya dan Akihabara
 
-Di hari kedua ini, tempat yang pertama kali saya kunjungi yaitu Suga Shrine di kawan Shinjuku. Niat ke Suga Shrine ini bukan untuk melihat kuilnya, tapi untuk melihat tangga yang ada di dekat kuilnya yang mana tangga tersebut muncul menjadi latar belakang dalam sebuah film animasi yang terkenal Kimi no Na wa.
+Di hari kedua ini, tempat yang pertama kali saya kunjungi yaitu Suga Shrine di kawasan Shinjuku. Niat ke Suga Shrine ini bukan untuk melihat kuilnya, tapi untuk melihat tangga yang ada di dekat kuilnya yang mana tangga tersebut muncul menjadi latar belakang dalam sebuah film animasi yang terkenal Kimi no Na wa.
 
 Setelah itu, saya melanjutkan lagi perjalanan ke taman Shinjuku Gyoen. Taman ini memadukan tiga gaya taman yakni, Taman Tradisional Jepang, Taman khas Prancis, dan Panorama khas Inggris. Seperti sebelumnya, niat saya ke taman ini yaitu untuk melihat tempat yang menjadi latar belakang dalam film animasi Kotonoha no Niwa.
 
