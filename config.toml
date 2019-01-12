@@ -51,7 +51,7 @@ paragraph = "Hello World!"
 alt = "Muhammad Zaky Zulfiqor"
 circle = true
 imperfect = true
-src = "https://scontent-sin6-1.cdninstagram.com/vp/ca1bbdd3783b54d125edd78d31b0e2fb/5C8051EF/t51.2885-15/e35/43732021_339826360156460_4285751904103081467_n.jpg"
+src = "https://raw.githubusercontent.com/zakybstrd21215/site/master/static/uploads/2019/01/12/ava.jpg"
 width = "150"
 [params.postAmount]
 sidebar = 5
