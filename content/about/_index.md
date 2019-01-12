@@ -3,11 +3,11 @@ date = "2017-12-20T00:00:00Z"
 title = "Who Am I"
 
 +++
-![](https://farm1.staticflickr.com/799/39238550660_fba521f6f7_k_d.jpg)
+![](/uploads/2019/01/12/me.jpg)
 
 Halo, my name is Muhammad Zaky Zulfiqor.
 
-I just simple person who like code, security enthusiast, share knowledge, always learning new information about technology and cyber security.
+I just simple person who like photography, videography, code, and cyber security enthusiast.
 
 I'd like to think myself as an J-Pop, J-Rock, Rock, Deathcore, Electronicore, Metalcore, and Metal fan and use my choice of music for positive self-regulatory purposes. In addition, I am also a fan of Anime, Manga, and Light Novel from Japan.
 
@@ -30,6 +30,11 @@ I'd like to think myself as an J-Pop, J-Rock, Rock, Deathcore, Electronicore, Me
 * PHP
 * Python
 * Linux
+* kdenlive
+* Adobe Premiere
+* Adobe After Effects
+* Adobe Photoshop
+* Adobe Lightroom
 
 # Achievement
 
@@ -47,7 +52,7 @@ I'd like to think myself as an J-Pop, J-Rock, Rock, Deathcore, Electronicore, Me
 
 <iframe src="https://open.spotify.com/embed?uri=spotify:track:2BY5fNHmpjV797ByjLX4I7" width="250" height="80" frameborder="0" allowtransparency="true"></iframe>
 <iframe src="https://open.spotify.com/embed?uri=spotify:track:1oy5ijzOe5kuX5QOLa6Uqt" width="250" height="80" frameborder="0" allowtransparency="true"></iframe>
-<iframe src="https://open.spotify.com/embed?uri=spotify:track:5riHeAecRL5FBpIWB5XW2f" width="250" height="80" frameborder="0" allowtransparency="true"></iframe>
+<iframe src="https://open.spotify.com/embed?uri=spotify:track:1s0QbmRVJ6AK4ICc44tJtB" width="250" height="80" frameborder="0" allowtransparency="true"></iframe>
 <iframe src="https://open.spotify.com/embed?uri=spotify:track:1p6xmiuInlo3zPzgHnPz5h" width="250" height="80" frameborder="0" allowtransparency="true"></iframe>
 <iframe src="https://open.spotify.com/embed?uri=spotify:track:0uBbuZ5LnfaPLszfxP8CXz" width="250" height="80" frameborder="0" allowtransparency="true"></iframe>
 <iframe src="https://open.spotify.com/embed?uri=spotify:track:0tBwpD5CiHQAp5hupU2tVC" width="250" height="80" frameborder="0" allowtransparency="true"></iframe>
