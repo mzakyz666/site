@@ -46,7 +46,7 @@ viewMorePostLink = "/article/"
 [params.intro]
 about = "I just simple person who like photography, videography, code, and cyber security enthusiast."
 header = "Muhammad Zaky Zulfiqor"
-paragraph = "Hello World!"
+paragraph = "ムハマド・ザキ・ズルフィコル"
 [params.intro.pic]
 alt = "Muhammad Zaky Zulfiqor"
 circle = true
