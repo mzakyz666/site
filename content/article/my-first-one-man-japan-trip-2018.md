@@ -119,6 +119,6 @@ Untuk totalnya, silahkan jumlahkan saja sendiri ya.
 
 Jangan lupa juga ditonton ya video cuplikan perjalanan saya selama di Tokyo yang ada dibawah ini:
 
-<div class="videoyoutube"><div class="video-responsive"> <iframe allowfullscreen="1" class="embedded-video-large" src="https://www.dailymotion.com/embed/video/x6wg3u5"></iframe></div></div>
+<div class="videoyoutube"> <div class="video-responsive"> <iframe allowfullscreen="1" class="embedded-video-large" src="https://www.youtube.com/embed/6gNRElMlAl0?rel=0"></iframe> </div> </div>
 
 Jika ada masukan, pertanyaan, dan hal lainnya, silahkan berdiskusi di kolom komentar. Jangan lupa juga share artikel ini jika bermanfaat bagi kalian. Bye!
