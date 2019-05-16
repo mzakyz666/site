@@ -23,31 +23,6 @@ I'd like to think myself as an J-Pop, J-Rock, Rock, Deathcore, Electronicore, Me
 * Founder - {{< url-link "Error 404 Cyber News" "https://errorcybernews.com" "target">}} (2016 - Present)
 * IT Administrator - {{< url-link "Yo! Holiday Tours & Travel" "https://www.yoholiday.co.id" "target">}} (2016 - Present)
 
-# Skills
-
-* HTML & CSS
-* JavaScript
-* PHP
-* Python
-* Linux
-* kdenlive
-* Adobe Premiere
-* Adobe After Effects
-* Adobe Photoshop
-* Adobe Lightroom
-
-# Achievement
-
-* CHFI
-* CISA
-* CCSP
-* Microsoft Digital Literacy
-* Digital Civility: Making the Internet Safer from MVA
-* Security Fundamentals from MVA
-* Security in the Enterprise from MVA
-* Speaker Cyber Security Seminar "Security in a Serious Way" 2017 at Universitas Perjuangan
-* Speaker "NGABUBUR-IT: Sharing Session About IT & Cyber Security" at SMK NU Tasikmalaya
-
 # Favorite Music
 
 <iframe src="https://open.spotify.com/embed?uri=spotify:track:2BY5fNHmpjV797ByjLX4I7" width="250" height="80" frameborder="0" allowtransparency="true"></iframe>
