@@ -54,6 +54,7 @@ fields:
   hidden: false
   default: post
 pages:
+- content/article/hacking-tools-yang-bisa-kamu-coba-pelajari-di-2019.md
 - content/article/pengalaman-apply-visa-jepang-di-jvac.md
 - content/article/website-security.md
 - content/article/the-internet-of-hackable-things.md
