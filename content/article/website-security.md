@@ -36,13 +36,13 @@ Selain memasukkan perintah SQL untuk menghapus informasi aplikasi, dapat juga me
 _Sample Case:_
 
 Nama pengguna: \[‘or 1 or‘ a ’=‘ a\]  
-Kata Sandi: \[\* \* \* \* \* \* \* \* \*\]
+Kata Sandi: \[* * * * * * * * *\]
 
 Dalam  contoh lain ini, kita menguji kemungkinan menggabungkan parameter login dan kata sandi secara langsung dalam _String_ yang merakit perintah SQL.
 
 Jika terdapat kerentanan dalam sebuah form login aplikasi, maka akan menghasilkan pernyataan SQL:
 
-**select \* from users where login = ” or 1 or ‘a’ = ‘a’ and password = ‘12345678’**
+**select * from users where login = ” or 1 or ‘a’ = ‘a’ and password = ‘12345678’**
 
 **Final result: FALSE or TRUE OR True AND false**
 
@@ -64,7 +64,7 @@ Untuk mempelajari lebih lanjut tentang serangan ini dan hal lainnya, serta cara 
 
 Bagi kalian yang bekerja atau sedang belajar tentang bidang keamanan informasi, saya sangat menyarankan untuk menganalisa dan menguji aplikasi OWASP Juice Shop Project: [https://www.owasp.org/index.php/OWASP_Juice_Shop_Project](https://www.owasp.org/index.php/OWASP_Juice_Shop_Project "https://www.owasp.org/index.php/OWASP_Juice_Shop_Project").
 
-Project tersebut berfokus pada praktik CTF. CTF adalah singkatan dari Capture the Flag. Untuk CTF ini pernah saya bahas sebelumnya di: [https://muhammadzakyzulfiqor.xyz/article/ctf-what-they-mean-for-security/](https://muhammadzakyzulfiqor.xyz/article/ctf-what-they-mean-for-security/ "https://muhammadzakyzulfiqor.xyz/article/ctf-what-they-mean-for-security/")
+Project tersebut berfokus pada praktik CTF. CTF adalah singkatan dari Capture the Flag. Untuk CTF ini pernah saya bahas sebelumnya di: [https://zaky.my.id/article/ctf-what-they-mean-for-security/](https://zaky.my.id/article/ctf-what-they-mean-for-security/ "https://zaky.my.id/article/ctf-what-they-mean-for-security/")
 
 <div class="videoyoutube"> <div class="video-responsive"> <iframe allowfullscreen="1" class="embedded-video-large" src="https://www.youtube.com/embed/62Mj0ZgZvXc?rel=0"></iframe> </div> </div>
 
