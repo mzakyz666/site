@@ -22,15 +22,3 @@ I'd like to think myself as an J-Pop, J-Rock, Rock, Deathcore, Electronicore, Me
 
 * Founder - {{< url-link "Error 404 Cyber News" "https://errorcybernews.com" "target">}} (2016 - Present)
 * IT Administrator - {{< url-link "Yo! Holiday Tours & Travel" "https://www.yoholiday.co.id" "target">}} (2016 - Present)
-
-# Favorite Music
-
-<iframe src="https://open.spotify.com/embed?uri=spotify:track:2BY5fNHmpjV797ByjLX4I7" width="250" height="80" frameborder="0" allowtransparency="true"></iframe>
-<iframe src="https://open.spotify.com/embed?uri=spotify:track:1oy5ijzOe5kuX5QOLa6Uqt" width="250" height="80" frameborder="0" allowtransparency="true"></iframe>
-<iframe src="https://open.spotify.com/embed?uri=spotify:track:1s0QbmRVJ6AK4ICc44tJtB" width="250" height="80" frameborder="0" allowtransparency="true"></iframe>
-<iframe src="https://open.spotify.com/embed?uri=spotify:track:1p6xmiuInlo3zPzgHnPz5h" width="250" height="80" frameborder="0" allowtransparency="true"></iframe>
-<iframe src="https://open.spotify.com/embed?uri=spotify:track:0uBbuZ5LnfaPLszfxP8CXz" width="250" height="80" frameborder="0" allowtransparency="true"></iframe>
-<iframe src="https://open.spotify.com/embed?uri=spotify:track:0tBwpD5CiHQAp5hupU2tVC" width="250" height="80" frameborder="0" allowtransparency="true"></iframe>
-<iframe src="https://open.spotify.com/embed?uri=spotify:track:2KfC6tJ8uVW1iY0wIHJttE" width="250" height="80" frameborder="0" allowtransparency="true"></iframe>
-<iframe src="https://open.spotify.com/embed?uri=spotify:track:4I71z7CBzGLQD5B7u1ochV" width="250" height="80" frameborder="0" allowtransparency="true"></iframe>
-<iframe src="https://open.spotify.com/embed?uri=spotify:track:38kcwx5znepLWCIBID0Bwm" width="250" height="80" frameborder="0" allowtransparency="true"></iframe>
