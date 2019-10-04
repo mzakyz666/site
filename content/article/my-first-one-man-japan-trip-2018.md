@@ -13,7 +13,7 @@ type = "post"
 +++
 Setelah bertahun-tahun lamanya hanya bermimpi pergi ke Jepang, alhamdulillah, pada bulan Oktober 2018 akhirnya saya mengunjunginya. Artikel ini merupakan artikel yang akan berisi pengalaman saya ketika jalan-jalan ke Jepang sendirian, tepatnya jalan-jalan di Tokyo. Meskipun, ada beberapa tempat yang tidak saya kunjungi namun sangat ingin saya kunjungi jika punya waktu lebih.
 
-Sebelumnya saya sudah menerbitkan pengalaman saya ketika mengajukan salah satu dokumen perjalanan wajib untuk ke Jepang bagi WNI yaitu Visa. Kamu bisa baca artikelnya {{< url-link "disini" "https://muhammadzakyzulfiqor.xyz/article/pengalaman-apply-visa-jepang-di-jvac/" "target">}}.
+Sebelumnya saya sudah menerbitkan pengalaman saya ketika mengajukan salah satu dokumen perjalanan wajib untuk ke Jepang bagi WNI yaitu Visa. Kamu bisa baca artikelnya {{< url-link "disini" "https://zaky.my.id/article/pengalaman-apply-visa-jepang-di-jvac/" "target">}}.
 
 Oh ya, dalam artikel ini saya akan bercerita dengan singkat, karena akan kepanjangan kalo terlalu detail wkwkwkwk.
 
