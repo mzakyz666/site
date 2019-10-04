@@ -5,7 +5,9 @@ title = "Who Am I"
 +++
 ![](/uploads/2019/05/10/49933772_630730414050679_4259327744748367619_n.jpg)
 
-Halo, my name is Muhammad Zaky Zulfiqor.
+Halo!
+
+My name is Muhammad Zaky Zulfiqor.
 
 I just simple person who like photography, videography, code, and cyber security enthusiast.
 
