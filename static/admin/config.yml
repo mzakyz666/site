@@ -22,6 +22,7 @@ collections:
       - {label: "Categories", name: "categories", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Description", name: "description", widget: "string"}
+      - {label: "Featured", name: "featured", widget: "string"}
       - {label: "Featured Alt", name: "featuredalt", widget: "string"}
       - {label: "Featured Path", name: "featuredpath", widget: "string"}
       - {label: "Link Title", name: "linktitle", widget: "string"}
