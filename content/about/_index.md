@@ -16,11 +16,11 @@ I'd like to think myself as an J-Pop, J-Rock, Rock, Deathcore, Electronicore, Me
 ## Education Formal
 
 * SDN Picungremuk 1 Tasikmalaya (2003-2009)
-* SMP Pst. Cintawana Singaparna (2009-2011)
+* SMP Pesantren Cintawana Singaparna (2009-2011)
 * MTs Manarul Huda Tasikmalaya (2011-2012)
 * SMK Nahdlatul Ulama Tasikmalaya (2012-2015)
 
 ## Work Experience
 
-* Founder - {{< url-link "Error 404 Cyber News" "https://errorcybernews.com" "target">}} (2016 - Present)
-* IT Administrator - {{< url-link "Yo! Holiday Tours & Travel" "https://www.yoholiday.co.id" "target">}} (2016 - Present)
+* Founder & CEO - PT. Digital Media Techindo, also known as {{< url-link "Error 404 Cyber News" "https://errorcybernews.com" "target">}} (2016 - Present)
+* IT Administrator - {{< url-link "Yo! Holiday Tours & Travel" "https://www.yoholiday.co.id" "target">}} (2016 - 2020)
