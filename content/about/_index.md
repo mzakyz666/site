@@ -9,7 +9,7 @@ Halo!
 
 My name is Muhammad Zaky Zulfiqor.
 
-I just simple person who like photography, videography, code, and cyber security enthusiast.
+I just a simple person who like photography, videography, code, and cyber security enthusiast.
 
 I'd like to think myself as an J-Pop, J-Rock, Rock, Deathcore, Electronicore, Metalcore, and Metal fan and use my choice of music for positive self-regulatory purposes. In addition, I am also a fan of Anime, Manga, and Light Novel from Japan.
 
@@ -22,5 +22,5 @@ I'd like to think myself as an J-Pop, J-Rock, Rock, Deathcore, Electronicore, Me
 
 ## Work Experience
 
-* Founder & CEO - PT. Digital Media Techindo, also known as {{< url-link "Error 404 Cyber News" "https://errorcybernews.id" "target">}} (2016 - Present)
+* Founder & CEO - PT. Digital Media Techindo, also known in public as {{< url-link "Error 404 Cyber News" "https://errorcybernews.id" "target">}} (2016 - Present)
 * IT Administrator - {{< url-link "Yo! Holiday Tours & Travel" "https://www.yoholiday.co.id" "target">}} (2016 - 2020)
