@@ -1,16 +1,18 @@
 ---
 layout: article
-title: Apakah Harus Mempelajari Bahasa Pemrograman Jika Ingin Terjun Dalam
-  Bidang Cyber Security?
+title: Apakah Harus Mempelajari Bahasa Pemrograman Jika Ingin Terjun Dalam Bidang
+  Cyber Security?
 author: kernel-panic
-categories: List [ "Security" ]
-date: 2020-05-21T16:01:28.425Z
+categories:
+- Security
+date: 2020-05-21T16:01:28.425+00:00
 description: Cyber Security and Programming, Do they even relate?
 featured: Pemograman.jpg
 featuredalt: Bahasa Pemrograman
 featuredpath: https://raw.githubusercontent.com/zakybstrd21215/site/master/static/uploads
-linktitle: Bahasa Pemrograman dan Cyber Security
+linktitle: ''
 type: post
+
 ---
 Meskipun terlihat seperti tidak ada hubungannya, namun bagi saya pemrograman merupakan salah satu aspek yang berkaitan dengan *cyber security*. Ada sebuah benang merah yang tak bisa diputus di antara keduanya. Tentu saja, karena dibalik semua yang berjalan dalam sistem komputer, ada kode yang dijalankan agar bisa melakukan tindakan yang kita inginkan, begitulah singkatnya.
 
