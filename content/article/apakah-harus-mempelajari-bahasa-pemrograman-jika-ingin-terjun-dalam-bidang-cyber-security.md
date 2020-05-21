@@ -7,7 +7,7 @@ categories:
 - Security
 date: 2020-05-21T16:01:28.425+00:00
 description: Cyber Security and Programming, Do they even relate?
-featured: Pemograman.jpg
+featured: pemograman.jpg
 featuredalt: Bahasa Pemrograman
 featuredpath: https://raw.githubusercontent.com/zakybstrd21215/site/master/static/uploads
 linktitle: ''
