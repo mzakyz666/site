@@ -67,7 +67,7 @@ Bahasa Assembly memungkinkan kita mengakses banyak bagian terkecil dari perangka
 
 Bahasa pemrograman ini adalah dasar dari sebagian besar sistem, dan sistem operasi juga didasarkan pada mereka. Bahasa-bahasa ini sangat kuat serta serbaguna dan memberikan kontrol yang fantastis atas komputer. Namun bahasa-bahasa ini agak sulit untuk dipahami, tapi begitu kamu memahami konsepnya, maka itu bisa membuat kamu menjadi profesional *cyber security* yang lebih baik.
 
-### Memulai dari mana?
+### Belajarnya di mana?
 
 Untuk dimana bisa mempelajarinya, sekarang sudah ada berbagai macam platform kursus yang tersedia secara online yang memudahkan akses tentunya.
 
