@@ -1,7 +1,6 @@
 ---
 layout: article
-title: Haruskah Mempelajari Bahasa Pemrograman Jika Ingin Terjun Dalam Bidang
-  Cyber Security?
+title: Haruskah Mempelajari Pemrograman Jika Ingin Terjun Dalam Bidang Cyber Security?
 author: kernel-panic
 categories:
 - Security
