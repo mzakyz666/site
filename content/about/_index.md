@@ -22,6 +22,6 @@ I'd like to think myself as an J-Pop, J-Rock, Rock, Deathcore, Electronicore, Me
 
 ## Work Experience
 
-* Founder & CEO - PT. Digital Media Techindo, also known in public as {{< url-link "Error 404 Cyber News" "https://errorcybernews.id" "target">}} (2016 - Present)
+* Founder & CEO - {{< url-link "Berisi.id" "https://berisi.id" "target">}} (formerly known as Error 404 Cyber News) (2016 - Present)
 * IT Administrator - {{< url-link "Yo! Holiday Tours & Travel" "https://www.yoholiday.co.id" "target">}} (2016 - 2020)
 * Author - {{< url-link "Akiba Nation" "https://www.akibanation.com/" "target">}} (2016 - 2017)
